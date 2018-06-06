@@ -1,0 +1,30 @@
+ul {
+  background-color: gray;
+  margin: 0px;
+  padding: 30px;
+}
+
+li {
+  background-color: black;
+  display: inline;
+  padding: 20px 40px;
+}
+.box {
+  display: inline-block;
+  width: 40%;
+}
+img {
+  width: 60%;
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid black;
+}
+.html {
+  background-color: #2BA8E0;
+}
+.css {
+  background-color: #EE6526;
+}
+body {
+  text-align: center;
+}
